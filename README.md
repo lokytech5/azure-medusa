@@ -1,0 +1,1 @@
+Deploying medusa on Azure Infra 
